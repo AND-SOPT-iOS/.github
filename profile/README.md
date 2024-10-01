@@ -1,12 +1,9 @@
-## Hi there 👋
+## 35기 AND SOPT iOS 
 
-<!--
+과제 제출을 위한 레포지토리입니다.<br>
+주차별 과제는 주차별 브랜치에서 진행해 주시고, 과제 제출 시 develop으로 PR을 보냅시다.
 
-**Here are some ideas to get you started:**
+파트원의 코드를 보는 것을 지양하고, 외부의 코드를 자주 보는 방향으로 지향합시다 :)<br>
+(파트장이 직접 확인하여, 코드의 스타일이 너무 비슷할 경우 과제 미제출로 간주합니다)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+합동 세미나, 솝커톤, 앱잼 프로젝트는 **[SOPT-all](https://github.com/SOPT-all)** 에서 관리됩니다.
